@@ -955,7 +955,7 @@ class Mage_Core_Model_Config extends Mage_Core_Model_Config_Base
 
     /**
      * Iterate all active modules "etc" folders and combine data from
-     * specidied xml file name to one object
+     * specified xml file name to one object
      *
      * @param string $fileName
      * @param null|Mage_Core_Model_Config_Base $mergeToObject
